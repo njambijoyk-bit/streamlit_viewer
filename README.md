@@ -34,6 +34,11 @@ Everything else installs itself on first run.
 Double-click **`run.bat`**. The first run sets things up (a minute or two),
 then the viewer opens in your web browser. Every run after that is instant.
 
+**Make it feel like an app:** double-click **`Create Desktop Shortcut.bat`**
+once. It puts a **TISL Backup Viewer** shortcut (with the app icon) on your
+Desktop and in the Start Menu. From then on you launch it like any other app —
+it still opens the little console window while it runs, which is normal.
+
 ### macOS / Linux
 ```bash
 ./run.sh
